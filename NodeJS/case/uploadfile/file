@@ -1,0 +1,69 @@
+------WebKitFormBoundary6rDIImSMDjnid3Oq
+Content-Disposition: form-data; name="name"
+
+ËØ∑ËæìÂÖ•Êñá‰ª∂ÂêçÁß∞
+------WebKitFormBoundary6rDIImSMDjnid3Oq
+Content-Disposition: form-data; name="file"; filename="vscodeSetting.txt"
+Content-Type: text/plain
+
+{
+  // "workbench.colorTheme": "Solarized Light",
+  // "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16,
+  "editor.lineHeight": 36,
+  "editor.letterSpacing": 0.5,
+  "editor.fontWeight": "400",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 5,
+  "editor.cursorBlinking": "solid",
+  // "editor.fontFamily": "Source Code Pro",
+  // "terminal.integrated.fontFamily": "JetBrains Mono",
+  // "editor.fontLigatures": "workbench.colorTheme",
+  // “‘œÒÀÿŒ™µ•Œªøÿ÷∆◊÷∫≈°£
+  // "editor.fontSize": 18,
+  // øÿ÷∆◊÷ÃÂ¥÷œ∏°£
+  // "editor.fontWeight": "normal",
+  "files.autoSave": "afterDelay", //¥Úø™◊‘∂Ø±£¥Ê
+  "editor.lineNumbers": "on", //ø™∆Ù–– ˝Ã· æ
+  "editor.quickSuggestions": { //ø™∆Ù◊‘∂Øœ‘ æΩ®“È
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+  // "editor.formatOnSave": true, //√ø¥Œ±£¥Ê◊‘∂Ø∏Ò ΩªØ
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "git.autofetch": true,
+  "git.suggestSmartCommit": false,
+  "git.confirmSync": false,
+  "javascript.updateImportsOnFileMove.enabled": "prompt",
+  "editor.tabSize": 2,
+  "csscomb.preset": {},
+  "gitlens.gitCommands.closeOnFocusOut": true,
+  "hediet.vscode-drawio.local-storage": "eyIuZHJhd2lvLWNvbmZpZyI6IntcImxhbmd1YWdlXCI6XCJcIixcImN1c3RvbUZvbnRzXCI6W10sXCJsaWJyYXJpZXNcIjpcImdlbmVyYWxcIixcImN1c3RvbUxpYnJhcmllc1wiOltcIkwuc2NyYXRjaHBhZFwiXSxcInBsdWdpbnNcIjpbXSxcInJlY2VudENvbG9yc1wiOltdLFwiZm9ybWF0V2lkdGhcIjowLFwiY3JlYXRlVGFyZ2V0XCI6ZmFsc2UsXCJwYWdlRm9ybWF0XCI6e1wieFwiOjAsXCJ5XCI6MCxcIndpZHRoXCI6ODI3LFwiaGVpZ2h0XCI6MTE2OX0sXCJzZWFyY2hcIjp0cnVlLFwic2hvd1N0YXJ0U2NyZWVuXCI6dHJ1ZSxcImdyaWRDb2xvclwiOlwiI2QwZDBkMFwiLFwiZGFya0dyaWRDb2xvclwiOlwiIzZlNmU2ZVwiLFwiYXV0b3NhdmVcIjp0cnVlLFwicmVzaXplSW1hZ2VzXCI6bnVsbCxcIm9wZW5Db3VudGVyXCI6MCxcInZlcnNpb25cIjoxOCxcInVuaXRcIjoxLFwiaXNSdWxlck9uXCI6ZmFsc2UsXCJ1aVwiOlwiXCJ9In0=",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+  }, // ±£¥Ê ± Ω¯––∏Ò ΩªØ
+  "sync.gist": "bd742479a94c6920214b71fbf62ffd70",
+  "editor.detectIndentation": false,
+  "workbench.editorAssociations": {
+    "*.js": "default"
+  },
+  "files.associations": {
+    "*.html": "html"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  }
+}
+------WebKitFormBoundary6rDIImSMDjnid3Oq
+Content-Disposition: form-data; name="submit"
+
+Upload
+------WebKitFormBoundary6rDIImSMDjnid3Oq--

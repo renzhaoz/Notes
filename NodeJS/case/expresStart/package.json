@@ -1,0 +1,9 @@
+{
+  "name": "expressStart",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "ejs": "^2.7.4",
+    "express": "^4.16.2"
+  }
+}
